@@ -28,6 +28,7 @@ onde se adiciona e remove informação do Storage local.
 
 - ReactNarive
 - Javascript
+- Expo
 
 
 </br></br>
